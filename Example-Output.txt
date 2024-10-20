@@ -1,0 +1,46 @@
+### **EXAMPLE-OUTPUT**
+Enter the name of the student: John
+
+--- Telugu ---
+Enter marks for Formative Assessment 1 (out of 25) in Telugu: 23
+Enter marks for Formative Assessment 2 (out of 25) in Telugu: 22
+Enter marks for Summative Assessment (out of 50) in Telugu: 45
+Total marks for Telugu: 90.0/100
+
+--- Hindi ---
+Enter marks for Formative Assessment 1 (out of 25) in Hindi: 23
+Enter marks for Formative Assessment 2 (out of 25) in Hindi: 21
+Enter marks for Summative Assessment (out of 50) in Hindi: 45
+Total marks for Hindi: 89.0/100
+
+--- English ---
+Enter marks for Formative Assessment 1 (out of 25) in English: 23
+Enter marks for Formative Assessment 2 (out of 25) in English: 24
+Enter marks for Summative Assessment (out of 50) in English: 46
+Total marks for English: 93.0/100
+
+--- Mathematics ---
+Enter marks for Formative Assessment 1 (out of 25) in Mathematics: 23
+Enter marks for Formative Assessment 2 (out of 25) in Mathematics: 25
+Enter marks for Summative Assessment (out of 50) in Mathematics: 50
+Total marks for Mathematics: 98.0/100
+
+--- Science ---
+Enter marks for Formative Assessment 1 (out of 25) in Science: 23
+Enter marks for Formative Assessment 2 (out of 25) in Science: 12
+Enter marks for Summative Assessment (out of 50) in Science: 45
+Total marks for Science: 80.0/100
+
+--- Social ---
+Enter marks for Formative Assessment 1 (out of 25) in Social: 25
+Enter marks for Formative Assessment 2 (out of 25) in Social: 21
+Enter marks for Summative Assessment (out of 50) in Social: 47
+Total marks for Social: 93.0/100
+
+Enter the total number of classes held: 220
+Enter the number of classes attended: 200
+
+John's Total Marks: 543.0/600
+Percentage: 90.50%
+Overall Grade: A+
+Attendance Percentage: 90.91%
